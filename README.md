@@ -1,4 +1,4 @@
-# job-boards-parsing-drafts
+# jobboards-parsing-drafts
 
 Some parsing drafts to scraps vacancies and resumes on job boards, aka hh.ru, habr.ru and others.
 
