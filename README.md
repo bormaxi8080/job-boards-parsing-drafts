@@ -1,4 +1,5 @@
 # hh-vacancies-python-scraps
-Python scripts that scraps vacancies on hh.ru
+
+Some pasing examples that scraps vacancies on jobboards, aka hh.ru and others
 
 Project removed from archive.
