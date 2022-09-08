@@ -1,5 +1,5 @@
-# job-boards-parsing-examples
+# job-boards-parsing-drafts
 
-Some parsing examples that scraps vacancies and resumes on job boards, aka hh.ru, habr.ru and others
+Some parsing drafts to scraps vacancies and resumes on job boards, aka hh.ru, habr.ru and others.
 
 Project removed from archive.
